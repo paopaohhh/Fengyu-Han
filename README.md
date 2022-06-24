@@ -18,3 +18,5 @@ ROE15 net cash ratio0.9.csv in Filtered Indicators is the financial figure of fi
 
 **Code:**
 Use Train.py to train the model of MLP and Prototypical Networks. Use Logistic Regression.py, Decision Tree.py and Random Forest.py to train the model of Logistic Regression, Decision Tree and Random Forest.
+When you train with key indicators and filtered indicators, you need to change the number of line 115 in Train.py to 11, and the number of line 73 in Normal into 11. 
+When you train with expanded indicators, you need to change the number of line 115 in Train.py to 14, and the number of line 73 in Normal into 14.
