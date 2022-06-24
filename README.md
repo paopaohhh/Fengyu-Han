@@ -2,12 +2,19 @@
 
 **Environment:**
 PyCharm 2021.3 (Community Edition)
+
 Runtime version: 11.0.13+7-b1751.19 amd64
+
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+
 Windows 10 10.0
+
 GC: G1 Young Generation, G1 Old Generation
+
 Memory: 1774M
+
 Cores: 16
+
 Python: 3.9
 
 **data：**
